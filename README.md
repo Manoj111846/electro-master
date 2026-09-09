@@ -61,7 +61,7 @@ electro-master/
 
 The home page displays product collections, new products, hot deals, top-selling products and navigation.
 
-![Electro Master Home Page](./screenshot/01-home.png)
+![Electro Master Home Page](./screenshot/Index.png)
 
 ---
 
@@ -69,7 +69,7 @@ The home page displays product collections, new products, hot deals, top-selling
 
 The products page provides categories, filters, product cards, prices, ratings and an Add to Cart option.
 
-![Electro Master Products Page](./screenshot/02-products.png)
+![Electro Master Products Page](./screenshot/Product.png)
 
 ---
 
@@ -77,7 +77,7 @@ The products page provides categories, filters, product cards, prices, ratings a
 
 The product details page displays product images, price, rating, product information, quantity controls, reviews and related products.
 
-![Electro Master Product Details](./screenshot/03-product-details.png)
+![Electro Master Product Details](./screenshot/Regular.png)
 
 ---
 
@@ -85,8 +85,15 @@ The product details page displays product images, price, rating, product informa
 
 The checkout page contains billing address, shipping address, order summary, payment options and Place Order functionality.
 
-![Electro Master Checkout](./screenshot/04-checkout.png)
+![Electro Master Checkout](./screenshot/Checkout.png)
 
+---
+
+### 5. 🏪 Store Page
+
+The store page displays the available products and shopping categories.
+
+![Electro Master Store](./screenshot/Store.png)
 ## 🚀 How to Run Locally
 
 1. Download or clone this repository.
